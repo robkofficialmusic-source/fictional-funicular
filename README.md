@@ -27,6 +27,6 @@ Our goal is to build, share, and connect tools and concepts designed to expand f
 To get started with this repository, clone the project locally using:
 
 ```bash
-git clone [https://github.com/robkofficialmusic/DigitalMoneyGroups.git](https://github.com/robkofficialmusic/DigitalMoneyGroups.git)
+(https://github.com/robkofficialmusic/DigitalMoneyGroups.git)
 # fictional-funicular
 DigitalMoneyGroups
